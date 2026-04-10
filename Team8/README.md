@@ -1,5 +1,8 @@
 # Welcome to your Expo app 👋
 
+Team 08 
+組員:11256036 李致杰
+組員:11257011 張宇岑
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
 ## Get started
